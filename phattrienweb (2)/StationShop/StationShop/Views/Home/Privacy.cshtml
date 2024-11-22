@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+
+@model List<StationShop.Models.Category> //list kieu du lieu category
+<ul>
+@foreach(var cate in Model){
+    
+    <li>@cate.Name </li>
+
+}
+</ul>

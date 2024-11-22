@@ -1,0 +1,449 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StationShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StationShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\css\\ddsmoothmenu.css",
+      "PackagePath": "staticwebassets\\content\\css\\ddsmoothmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\css\\jquery.dualSlider.0.2.css",
+      "PackagePath": "staticwebassets\\content\\css\\jquery.dualSlider.0.2.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\css\\style.css",
+      "PackagePath": "staticwebassets\\content\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\css\\templatemo_style.css",
+      "PackagePath": "staticwebassets\\content\\css\\templatemo_style.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\2co.gif",
+      "PackagePath": "staticwebassets\\content\\images\\2co.gif"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\add_to_cart.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\add_to_cart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\carousel_bg_1.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\carousel_bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\carousel_download_bg.gif",
+      "PackagePath": "staticwebassets\\content\\images\\carousel_download_bg.gif"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\carousel_next_bg.gif",
+      "PackagePath": "staticwebassets\\content\\images\\carousel_next_bg.gif"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\carousel_pause_bg.gif",
+      "PackagePath": "staticwebassets\\content\\images\\carousel_pause_bg.gif"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\carousel_play_bg.gif",
+      "PackagePath": "staticwebassets\\content\\images\\carousel_play_bg.gif"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\carousel_previous_bg.gif",
+      "PackagePath": "staticwebassets\\content\\images\\carousel_previous_bg.gif"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\detail.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\detail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\more_but.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\more_but.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\paypal.gif",
+      "PackagePath": "staticwebassets\\content\\images\\paypal.gif"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\product\\01.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\product\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\product\\02.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\product\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\product\\03.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\product\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\product\\04.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\product\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\product\\05.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\product\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\product\\06.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\product\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\product\\07.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\product\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\product\\08.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\product\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\product\\09.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\product\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\product\\10.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\product\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\product\\10_l.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\product\\10_l.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\slider\\01.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\slider\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\slider\\02.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\slider\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\slider\\03.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\slider\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\templatemo_body.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\templatemo_body.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\templatemo_button.png",
+      "PackagePath": "staticwebassets\\content\\images\\templatemo_button.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\templatemo_image_01.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\templatemo_image_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\templatemo_list.png",
+      "PackagePath": "staticwebassets\\content\\images\\templatemo_list.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\templatemo_logo.png",
+      "PackagePath": "staticwebassets\\content\\images\\templatemo_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\templatemo_menu.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\templatemo_menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\templatemo_menu_hover.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\templatemo_menu_hover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\templatemo_middle.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\templatemo_middle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\templatemo_sidebar_bottom.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\templatemo_sidebar_bottom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\images\\templatemo_sidebar_header.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\templatemo_sidebar_header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\js\\ddsmoothmenu.js",
+      "PackagePath": "staticwebassets\\content\\js\\ddsmoothmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\js\\jquery-1.3.2.min.js",
+      "PackagePath": "staticwebassets\\content\\js\\jquery-1.3.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\js\\jquery.dualSlider.0.3.js",
+      "PackagePath": "staticwebassets\\content\\js\\jquery.dualSlider.0.3.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\js\\jquery.dualSlider.0.3.min.js",
+      "PackagePath": "staticwebassets\\content\\js\\jquery.dualSlider.0.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\content\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\content\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\content\\js\\jquery.timers-1.2.js",
+      "PackagePath": "staticwebassets\\content\\js\\jquery.timers-1.2.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Downloads\\phattrienweb (2)\\StationShop\\StationShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StationShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StationShop.props",
+      "PackagePath": "build\\StationShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StationShop.props",
+      "PackagePath": "buildMultiTargeting\\StationShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StationShop.props",
+      "PackagePath": "buildTransitive\\StationShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
