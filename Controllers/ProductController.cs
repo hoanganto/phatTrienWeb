@@ -23,5 +23,11 @@ namespace StationShop.Controllers
             Product? p = _db.Products.Find(id);
             return View(p);
         }
+
+        public IActionResult ListPro(int id)
+        {
+            List<Product> prolist = _db.Products.Where(p => p.CategoryId == id).ToList();
+            return View(prolist);
+        }
     }
 }

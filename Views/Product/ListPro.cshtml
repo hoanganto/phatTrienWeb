@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>New Products</h1>
+
+
+@foreach (var p in Model)
+{
+    <div class="product_box no_margin_right ">
+        <a href="productdetail.html"><img src="~/content/images/product/@p.ImagePath" alt="Image 01" /></a>
+        <h3>@p.Name</h3>
+        <p class="product_price">$ @p.Price </p>
+        <a href="shoppingcart.html" class="add_to_card">Add to Cart</a>
+        <a asp-controller="Product" asp-action="Details" asp-route-id="@p.Id" class="detail">Detail</a>
+    </div>
+}
