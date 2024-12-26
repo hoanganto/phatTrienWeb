@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "D:\\Fork\\phatTrienWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|d:\\fork\\phattrienweb\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|d:\\fork\\phattrienweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|d:\\fork\\phattrienweb\\views\\product\\listpro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|solutionrelative:views\\product\\listpro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|d:\\fork\\phattrienweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|d:\\fork\\phattrienweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|d:\\fork\\phattrienweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|d:\\fork\\phattrienweb\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|d:\\fork\\phattrienweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|d:\\fork\\phattrienweb\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|d:\\fork\\phattrienweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|d:\\fork\\phattrienweb\\views\\product\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|solutionrelative:views\\product\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|d:\\fork\\phattrienweb\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|solutionrelative:models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|d:\\fork\\phattrienweb\\views\\product\\listpro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|solutionrelative:views\\product\\listpro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|d:\\fork\\phattrienweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79BE876-F831-4C41-A053-39BD0C2CD9E1}|StationShop.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,93 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Fork\\phatTrienWeb\\Views\\Product\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
-              "ToolTip": "D:\\Fork\\phatTrienWeb\\Views\\Product\\Details.cshtml",
-              "RelativeToolTip": "Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T13:32:57.108Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ListPro.cshtml",
-              "DocumentMoniker": "D:\\Fork\\phatTrienWeb\\Views\\Product\\ListPro.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\ListPro.cshtml",
-              "ToolTip": "D:\\Fork\\phatTrienWeb\\Views\\Product\\ListPro.cshtml",
-              "RelativeToolTip": "Views\\Product\\ListPro.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T15:34:15.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Fork\\phatTrienWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Fork\\phatTrienWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:00:11.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Fork\\phatTrienWeb\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Fork\\phatTrienWeb\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T13:59:30.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Fork\\phatTrienWeb\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Fork\\phatTrienWeb\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T13:47:25.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Fork\\phatTrienWeb\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Fork\\phatTrienWeb\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T13:47:23.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Fork\\phatTrienWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Fork\\phatTrienWeb\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T14:07:01.183Z",
+              "WhenOpened": "2024-12-26T22:02:12.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Fork\\phatTrienWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Fork\\phatTrienWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:58:23.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListPro.cshtml",
+              "DocumentMoniker": "D:\\Fork\\phatTrienWeb\\Views\\Product\\ListPro.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\ListPro.cshtml",
+              "ToolTip": "D:\\Fork\\phatTrienWeb\\Views\\Product\\ListPro.cshtml",
+              "RelativeToolTip": "Views\\Product\\ListPro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T21:31:58.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "D:\\Fork\\phatTrienWeb\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "Models\\OrderProduct.cs",
+              "ToolTip": "D:\\Fork\\phatTrienWeb\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "Models\\OrderProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:12:54.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "D:\\Fork\\phatTrienWeb\\Views\\Product\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Cart.cshtml",
+              "ToolTip": "D:\\Fork\\phatTrienWeb\\Views\\Product\\Cart.cshtml",
+              "RelativeToolTip": "Views\\Product\\Cart.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T21:09:08.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Fork\\phatTrienWeb\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "D:\\Fork\\phatTrienWeb\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:03:42.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Fork\\phatTrienWeb\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\Fork\\phatTrienWeb\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T20:49:24.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Fork\\phatTrienWeb\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Fork\\phatTrienWeb\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA0wJ4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:34:18.994Z",
               "EditorCaption": ""
             }
           ]

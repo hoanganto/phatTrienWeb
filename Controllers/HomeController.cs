@@ -22,11 +22,16 @@ namespace StationShop.Controllers
 
         public IActionResult Index()
         {
-
             List<Product> proList = _db.Products.Take(9).ToList();
-            return View(proList);
+            List<Product> proList1 = _db.Products.Where(product => product.CategoryId == 1).Take(9).ToList();
 
+
+            ViewBag.ProductsId1 = proList1;
+            
+
+            return View(proList);
         }
+
 
         public IActionResult Privacy()
         {

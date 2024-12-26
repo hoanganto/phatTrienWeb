@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<StationShop.Models.Category>
+<ul class="sidebar_list">
+
+    @foreach (var p in Model)
+    {
+        <a href="/Product/ListPro?@p.Id" class="nav-item nav-link">@p.Name</a>
+    }
+
+    <li class="last"><a href="#">Velit mi rutrum diam</a></li>
+</ul>
+
+
+            
+
+            
+

@@ -1,23 +1,13 @@
-﻿@{
+﻿@model List<StationShop.Models.Product> 
+
+@{
     ViewData["Title"] = "Home Page";
+    var productsId1 = ViewBag.ProductsId1 as List<StationShop.Models.Product>;
+    var productsId2 = ViewBag.ProductsId2 as List<StationShop.Models.Product>;
+    var productsId3 = ViewBag.ProductsId3 as List<StationShop.Models.Product>;
 }
 
-@model List<StationShop.Models.Product> 
-@* <ul>
-    @foreach (var pro in Model)
-    {
-
-        <li>@pro.Name </li>
-
-    }
-</ul> *@
-
-
-
-
-    <h1>New Products</h1>
-    
-
+<h1>New Products</h1>
 @foreach(var p in Model)
 {
     <div class="product_box no_margin_right ">
@@ -28,6 +18,39 @@
         <a asp-controller="Product" asp-action="Details" asp-route-id="@p.Id" class="detail">Detail</a>
     </div>
 }
+
+<h2>Danh sách sản phẩm</h2>
+<ul>
+    @foreach (var product in Model)
+    {
+        <li>@product.ProductName - $@product.Price</li>
+    }
+</ul>
+
+<h2>Sản phẩm thuộc Category 1</h2>
+<ul>
+    @foreach (var product in productsId1)
+    {
+        <li>@product.ProductName - $@product.Price</li>
+    }
+</ul>
+
+<h2>Sản phẩm thuộc Category 2</h2>
+<ul>
+    @foreach (var product in productsId2)
+    {
+        <li>@product.ProductName - $@product.Price</li>
+    }
+</ul>
+
+<h2>Sản phẩm thuộc Category 3</h2>
+<ul>
+    @foreach (var product in productsId3)
+    {
+        <li>@product.ProductName - $@product.Price</li>
+    }
+</ul>
+
 
 
 
