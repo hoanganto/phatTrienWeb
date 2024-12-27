@@ -13,6 +13,7 @@ namespace StationShop.Controllers
 
         private readonly ILogger<HomeController> _logger;
         private readonly AppDBContext _db;
+        public String title;
 
         public HomeController(ILogger<HomeController> logger, AppDBContext db)
         {
@@ -23,11 +24,11 @@ namespace StationShop.Controllers
         public IActionResult Index()
         {
             List<Product> proList = _db.Products.Take(9).ToList();
-            List<Product> proList1 = _db.Products.Where(product => product.CategoryId == 1).Take(9).ToList();
+            List<Product> proList2 = _db.Products.Take(9).ToList();
 
 
-            ViewBag.ProductsId1 = proList1;
-            
+            ViewData["proList"] = proList2;
+
 
             return View(proList);
         }
